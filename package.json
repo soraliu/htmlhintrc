@@ -1,0 +1,24 @@
+{
+  "name": "htmlhintrc",
+  "version": "1.0.0",
+  "description": "htmlhintrc",
+  "main": ".htmlhintrc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovesora/htmlhintrc.git"
+  },
+  "keywords": [
+    "html",
+    "htmlhint",
+    "htmlhintrc"
+  ],
+  "author": "liuxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lovesora/htmlhintrc/issues"
+  },
+  "homepage": "https://github.com/lovesora/htmlhintrc#readme"
+}
