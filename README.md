@@ -1,0 +1,2 @@
+# htmlhintrc
+htmlhintrc
